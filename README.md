@@ -17,5 +17,6 @@ List the key features of your project. Consider using checkboxes for a clear rep
 - [x] Shopping cart functionality
 - [ ] Wishlist
 - [ ] Order history
-
+- [ ] Dynamic
+- [ ] User Friendly
 
