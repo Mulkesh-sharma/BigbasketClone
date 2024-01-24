@@ -1,6 +1,6 @@
 # Big Basket Clone
 
-![Project Logo](https://cdn.uxhack.co/product_logos/BigBasket_logo_0709211000)
+![Project Logo](https://cdn.uxhack.co/product_logos/BigBasket_logo_0709211000.png)
 
 ## Overview
 
