@@ -1076,14 +1076,14 @@ arrowBtn.addEventListener("click", function(){
 
 let ExoticFruitsVeggies = document.querySelectorAll(".ParentNav_child2 > ul > li > a")
 
-let pages = ["exoticFruitsVegetables.html", "tea.html", "Ghee page.html", "Nandini.html"]
+let pages = ["exoticFruitsVegetables.html", "tea.html", "Ghee.html", "Nandini.html"]
 
 for(let x = 0; x < pages.length; x++){
     ExoticFruitsVeggies[x].href = pages[x]
 }
 
 let homePage = document.querySelector(".ParentNav_child1 > a")
-homePage.href = "HomePage.html"
+homePage.href = "index.html"
 
 
 
